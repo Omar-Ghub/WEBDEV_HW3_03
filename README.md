@@ -1,0 +1,2 @@
+Hello Professor, as you may have noticed I did not include a link to the hosted website. This is because after 1 and a half hours of attempting to get the website to run on github pages, I am dangerously close 
+to the project deadline. For this reason, I have decided to cut my losses and only include the github link in the submission so I can hopefully get some project credit as opposed to nothing.
